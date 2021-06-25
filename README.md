@@ -9,4 +9,5 @@ rj222in@student.lnu.se
 
 ## Technical Description
 Framework: React
+
 Language: JavaScript
